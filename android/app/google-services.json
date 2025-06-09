@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "366712364769",
+    "project_id": "truefunds-na1fl4",
+    "storage_bucket": "truefunds-na1fl4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366712364769:android:c24f7c79c4505b1c2ae1a0",
+        "android_client_info": {
+          "package_name": "com.mycompany.truefunds"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFYFAZNcmlgLDZ9XfXEgl9Y3QV6Ki5vnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
